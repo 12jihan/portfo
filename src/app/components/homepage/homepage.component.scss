@@ -1,9 +1,41 @@
-div.conX {
-    height: 100vh;
-    width: auto;
-    
-    background:  url(../../../assets/images/SVG/bg-image.svg) no-repeat;
-    background-size: cover;
-    padding-top: 502px;
-    padding-bottom: 1000px;
+div.hero-body {
+    h1 {
+        border-bottom: dashed white 1px;
+    }
 }
+
+
+
+
+
+
+// div.conX {
+//     height: 100vh;
+//     width: auto;
+    
+//     background:  url(../../../assets/images/SVG/bg-image.svg) no-repeat;
+//     background-size: cover;
+//     padding-bottom: 1000px;
+
+//     #leftImg {
+//         position: relative;
+//         top: 350px;
+//         left: 100px;
+//         height: auto;
+//         width: 600px;
+
+//         h1 {
+//             z-index: 10;
+//             position: absolute;
+//             top: 150px;
+//             left: 25%;
+//             text-align: center;
+//             border-bottom: solid white
+//         }
+
+//         img {
+//             z-index: 4;
+//         }
+
+//     }
+// }
